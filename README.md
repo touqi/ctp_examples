@@ -3,14 +3,14 @@
 - 目前仅支持在linux下用gcc编译使用。
 
 # 安装CppHeaderParser
-sudo pip install ply
-sudo pip install CppHeaderParser
+- sudo pip install ply
+- sudo pip install CppHeaderParser
 
 # 安装模板生成工 jinja2
-sudo pip install jinja2
+- sudo pip install jinja2
 
 # 安装astyle代码美化工具
-sudo apt-get install astyle
+- sudo apt-get install astyle
 
 
 # 安装接口api
